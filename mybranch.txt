@@ -1,3 +1,4 @@
 ahojky mybranch
 zmena i zmeny pohromade
 pull request zmena
+cherry pick zmena
