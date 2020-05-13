@@ -1,2 +1,2 @@
 ahojky mybranch
-zmeny
+zmena i zmeny pohromade
